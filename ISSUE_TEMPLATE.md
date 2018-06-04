@@ -1,6 +1,6 @@
 Welcome to our issue tracker! Please only use it to report bugs. If you want to discuss any new features, please go to our [Discord](https://discord.gg/pfNkVkJ) channel. Thank you for keeping the MyBit project strong! :large_blue_diamond:
 
-**Important for reporting issues on MyBit.io - ** We might not have yet deployed the latest version. Check our staging version on https://mybit-io-dev.surge.sh/, and only report the bug if you keep seeing the bug there.
+**Important for reporting issues on MyBit.io:** We might not have yet deployed the latest version. Check our staging version on https://mybit-io-dev.surge.sh/, and only report the bug if you keep seeing the bug there.
 
 <!--- Provide a general summary of the issue in the Title above -->
 
